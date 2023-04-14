@@ -59,3 +59,20 @@ cask "spotifree"
 cask "spotify"
 # Porting tool, to make Windows programs/games into native apps
 cask "unofficial-wineskin"
+# VideoLAN Client
+cask "vlc"
+# Google Chrome
+cask "google-chrome"
+# Microsoft Edge
+cask "microsoft-edge"
+# Microsoft Teams
+cask "microsoft-teams"
+cask "flycut"
+cask "iterm2"
+cask "visual-studio-code"
+cask "slack"
+cask "itsycal"
+cask "the-unarchiver"
+cask "transmission"
+cask "calibre"
+
