@@ -1,9 +1,9 @@
 # Onur's Dotfiles
-🔧 .files for macOS, brew, git, zsh 
+A simple 🔧 .files repo for macOS, brew, git, zsh 
 
 ## About
 
-This repo helps to setup a new Mac :computer:.
+This repo helps to setup a new Mac :computer: without spending too much time on configurations.
 
 ## Setup
 
@@ -17,6 +17,14 @@ git clone https://github.com/NurettinYAKIT/dotfiles.git ~/.dotfiles
 
 ```
 sh install.sh
+```
+
+## To update Brewfile
+
+This command will create the Brewfile with descriptions
+
+```
+brew bundle dump --describe
 ```
 
 ## Thanks to 

@@ -5,7 +5,6 @@ tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
 tap "int128/kubelogin"
-
 # Official Amazon AWS command-line interface
 brew "awscli"
 # Pack, ship and run any application as a lightweight container
@@ -44,20 +43,19 @@ brew "hashicorp/tap/terraform"
 brew "heroku/brew/heroku"
 # A kubectl plugin for Kubernetes OpenID Connect authentication
 brew "int128/kubelogin/kubelogin"
+# App to build and share containerized applications and microservices
+cask "docker"
 # Web browser
 cask "firefox"
 # Minimal installer for conda specific to conda-forge
 cask "miniforge"
 # Collaboration platform for API development
 cask "postman"
+# IDE for Python programming - Community Edition
+cask "pycharm-ce"
+# Automatically mutes ads on Spotify (not supported)
+cask "spotifree"
+# Music streaming service
+cask "spotify"
 # Porting tool, to make Windows programs/games into native apps
 cask "unofficial-wineskin"
-cask 'firefox'
-cask 'google-chrome'
-cask 'slack'
-cask 'the-unarchiver'
-cask 'visual-studio-code'
-cask 'transmission'
-cask 'spotify'
-cask 'spotifree'
-cask 'vlc'
