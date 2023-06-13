@@ -67,12 +67,23 @@ cask "google-chrome"
 cask "microsoft-edge"
 # Microsoft Teams
 cask "microsoft-teams"
+# Flycut
 cask "flycut"
+# iTerm2
 cask "iterm2"
+# Visual Studio Code
 cask "visual-studio-code"
+# Slack
 cask "slack"
+# Itsycal
 cask "itsycal"
+# unarchiver
 cask "the-unarchiver"
+# Transmission
 cask "transmission"
+# Calibre
 cask "calibre"
-
+# Fig
+cask "fig"
+# Figma
+cask "figma"
