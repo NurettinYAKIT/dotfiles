@@ -87,3 +87,7 @@ cask "calibre"
 cask "fig"
 # Figma
 cask "figma"
+# Brave Browser
+cask "brave-browser"
+# Jetbrains Toolbox
+cask jetbrains-toolbox
