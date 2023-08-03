@@ -61,33 +61,39 @@ cask "spotify"
 cask "unofficial-wineskin"
 # VideoLAN Client
 cask "vlc"
-# Google Chrome
+# Google Chrome (Web browser)
 cask "google-chrome"
 # Microsoft Edge
 cask "microsoft-edge"
-# Microsoft Teams
+# Microsoft Teams (Communication app)
 cask "microsoft-teams"
-# Flycut
+# Flycut (Clipboard manager)
 cask "flycut"
-# iTerm2
+# iTerm2 (Terminal app)
 cask "iterm2"
-# Visual Studio Code
+# Visual Studio Code (Code editor)
 cask "visual-studio-code"
-# Slack
+# Slack (Communication app)
 cask "slack"
-# Itsycal
+# Itsycal (Calendar app)
 cask "itsycal"
-# unarchiver
+# unarchiver (Extracts all types of archives)
 cask "the-unarchiver"
-# Transmission
+# Transmission (Torrent client)
 cask "transmission"
-# Calibre
+# Calibre (Ebook reader)
 cask "calibre"
-# Fig
+# Fig  (Terminal app)
 cask "fig"
-# Figma
+# Figma (Design tool)
 cask "figma"
-# Brave Browser
+# Brave Browser (Privacy focused browser)
 cask "brave-browser"
-# Jetbrains Toolbox
+# Jetbrains Toolbox (Manage all jetbrains apps)
 cask jetbrains-toolbox
+# Obsidian (Note taking app)
+cask obsidian
+# Shortcat (Keyboard productivity app)
+brew shortcat
+# Github action on your local machine
+brew act
