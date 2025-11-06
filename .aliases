@@ -1,0 +1,26 @@
+# Aliases
+
+alias zhconfig="code ~/.zshrc"
+
+# ZSH
+alias edzsh="nano ~/.zshrc"
+alias upzsh="source ~/.zshrc"
+
+#------ Java -------------------------------------------
+alias j19="sdk use java 19-open; java -version"
+alias j20="sdk use java 20.0.2-amzn; java -version"
+alias j21="sdk use java 21-tem; java -version"
+
+#------- Homebrew -------------------------------------
+alias brewski='brew update && brew upgrade && brew upgrade --cask && brew cleanup; brew doctor'
+alias brewskigreedy='brew update && brew upgrade && brew upgrade --cask --greedy && brew cleanup; brew doctor'
+
+
+#------- AI -------------------------------------------
+alias ai="ollama serve; ollama run llama3; open http://localhost:3000/"
+
+#------- Git -------------------------------------------
+alias multipull="find . -mindepth 1 -maxdepth 1 -type d -print -exec git -C {} pull \;"
+
+#-------- General --------------------------------------
+alias myip="ipconfig getifaddr en0"
