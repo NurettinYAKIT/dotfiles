@@ -27,6 +27,14 @@ This command will create the Brewfile with descriptions
 brew bundle dump --describe
 ```
 
+## Alias
+
+Add alias to your ~/.zshrc
+
+```
+source $HOME/.dotfiles/.aliases
+```
+
 ## Thanks to 
 
 
